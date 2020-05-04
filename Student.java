@@ -1,12 +1,4 @@
-/*
- * Class: CS 111B Objected-Oriented Programming Methodologies in Java
- * Description: Records the Student's basic information  and also contains
- * function that averages the student's test score.
- * Due date: 10/7/2015
- * File name: Student.java
- * Assignment #4
- * Programmed by John Ayson.
- */
+
 
 public class Student
 {
