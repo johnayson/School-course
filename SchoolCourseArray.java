@@ -1,12 +1,4 @@
-/*
- * Class: CS 111B Objected-Oriented Programming Methodologies in Java
- * Description: Driver class that demonstrate Student.java, Address.java and 
- * CourseArray.java by making a course and adding student's test scores in it.
- * Due date: 10/7/2015
- * File name: SchoolCourseArray.java
- * Assignment #4
- * Programmed by John Ayson.
- */
+
 import java.text.DecimalFormat;
 
 
