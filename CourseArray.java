@@ -1,12 +1,3 @@
-/*
- * Class: CS 111B Objected-Oriented Programming Methodologies in Java
- * Description: Keeps the course name and manages students in
- * that course. It uses the Student[] as an array. 
- * Due date: 10/7/2015
- * File name: CourseArray.java
- * Assignment #4
- * Programmed by John Ayson.
- */
 
 public class CourseArray
 {
